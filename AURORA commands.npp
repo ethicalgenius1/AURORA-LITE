@@ -1,0 +1,11 @@
+# OPEN CMD
+
+WITHOUT NOTIF OR WEB GUI
+# aurora-agent-64.exe
+
+WITH NOTIF + WEB GUI
+# aurora-agent-64.exe --dashboard
+# OPEN: localhost:17494
+
+INSTALL AURORA AS SERVICE BKGRND
+# aurora-agent-64.exe --install
